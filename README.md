@@ -429,6 +429,8 @@ Markdown format:
 - [**arXiv 2025**] LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding [[pdf]](https://www.arxiv.org/pdf/2508.01617) [[code]](https://github.com/LLM-VLM-GSL/LLaDA-MedV)
 
 ### 2026
+- [**ICLR 2026**] **Photon**: Speedup Volume Understanding with Efficient Multimodal Large Language Models [[pdf]](https://arxiv.org/pdf/2603.25155) [[code]](https://github.com/alibaba-damo-academy/Photon)
+- [**ICLR 2026**] **MedVR**: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2604.08203) [[code]](https://github.com/alibaba-damo-academy/MedVR)
 - [**ICLR 2026**] **MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning** [[pdf]](https://arxiv.org/pdf/2506.00555)
 - [**ICLR 2026**] M3CoTBench: Benchmark Chain-of-Thought of MLLMs in Medical Image Understanding [[pdf]](https://arxiv.org/abs/2601.08758) [[code]](https://github.com/juntaoJianggavin/M3CoTBench)
 - [**ICLR 2026**] **MedVLSynther: Synthesizing High-Quality Visual Question Answering from Medical Documents with Generator-Verifier LMMs** [[pdf]](https://arxiv.org/abs/2510.25867) [[code]](https://github.com/UCSC-VLAA/MedVLSynther)
