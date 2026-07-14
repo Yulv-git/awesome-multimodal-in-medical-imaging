@@ -441,6 +441,18 @@ Markdown format:
 
 ---
 
+## Histology–Spatial Transcriptomics Multimodal Models ![](https://img.shields.io/badge/Histology--ST-green)
+
+Cross-modal models that predict or analyze spatial transcriptomics jointly with histopathology images.
+
+### 2025
+- [**medRxiv 2025**] **DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images** [[pdf]](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) [[code]](https://github.com/ratschlab/DeepSpot)
+- [**NeurIPS 2025 Imageomics**] **DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision** [[pdf]](https://openreview.net/forum?id=ofCkwXQKaz) [[code]](https://github.com/ratschlab/DeepSpot2Cell)
+
+### 2026
+- [**medRxiv 2026**] **DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology** [[pdf]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) [[code]](https://github.com/ratschlab/DeepSpotM)
+- [**Bioinformatics 2026**] **AESTETIK: AutoEncoder for Spatial Transcriptomics Expression with Topology and Image Knowledge** [[pdf]](https://doi.org/10.1093/bioinformatics/btag316) [[code]](https://github.com/ratschlab/aestetik)
+
 ## 📖 Citation
 
 If you find this repository useful, please consider citing this list:
