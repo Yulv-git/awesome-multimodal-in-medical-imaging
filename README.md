@@ -98,6 +98,15 @@ Markdown format:
 |      [MedTrinity-25M](https://huggingface.co/datasets/UCSC-VLAA/MedTrinity-25M)      | multiple  | 25M   | 25M  | research papers<br>social media |    En    | 
 |     [Derm1M](https://arxiv.org/pdf/2503.14911)                                       | dermatology | 403K  | 1M | research papers<br>social media |    En    |
 
+### Image-Omics / Spatial Transcriptomics Datasets
+
+Multimodal histology–omics resources pairing H&E images with gene expression, spatial coordinates, and gene identifiers.
+
+|                                       dataset                                        |  domain   | image | genes/expression |             source              | language | 
+| :----------------------------------------------------------------------------------: | :-------: | :---: | :--------------: | :-----------------------------: | :------: | 
+| [TCGA virtual ST atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) | histology | 28.7k slides | 19k genes / 295.3M spots | TCGA H&E + DeepSpot-M virtual ST [[paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)] | En |
+| [HEST Xenium virtual ST](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) | histology | 59 samples | 19k genes / ~13.3M cells | HEST-1k Xenium + DeepSpot-M virtual ST [[paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)] | En |
+
 ### Visual Question Answering Datasets
 
 |                                       dataset                                        |  domain   | image | QA Items | language |
