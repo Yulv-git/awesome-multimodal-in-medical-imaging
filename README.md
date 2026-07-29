@@ -445,6 +445,7 @@ Multimodal histology–omics resources pairing H&E images with gene expression, 
 - [**ICLR 2026**] **MedVLSynther: Synthesizing High-Quality Visual Question Answering from Medical Documents with Generator-Verifier LMMs** [[pdf]](https://arxiv.org/abs/2510.25867) [[code]](https://github.com/UCSC-VLAA/MedVLSynther)
 - [**EACL 2026 Findings**] Benchmarking Direct Preference Optimization for Medical Large Vision-Language Models [[pdf]](https://arxiv.org/abs/2601.17918) [[code]](https://github.com/dmis-lab/med-vlm-dpo)
 - [**arXiv 2026**] MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning [[pdf]](https://arxiv.org/abs/2602.03320) [[code]](https://github.com/CUHK-AIM-Group/MedSAM-Agent)
+- [**ICML 2026**] **UniMedVL: Unifying Medical Multimodal Understanding and Generation through Observation-Knowledge-Analysis** [[pdf]](https://arxiv.org/abs/2510.15710) [[code]](https://github.com/uni-medical/UniMedVL)
 
 
 
